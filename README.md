@@ -3,10 +3,6 @@
 <h1 align="center"> 👋 Je suis Awen</h1>
 <h3 align="center">Développeur fullstack basé sur Nantes</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=awenbourdon&label=Profile%20views&color=0e75b6&style=flat" alt="awenbourdon" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=awenbourdon" alt="awenbourdon" /></a> </p>
-
 - 🌱 Actuellement j'apprends **Java, ReactJS et bientôt NextJS**
 
 - 👨‍💻 Mes projets sont aussi dispo sur [awenbourdon.fr](awenbourdon.fr)
