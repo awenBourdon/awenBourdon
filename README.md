@@ -3,7 +3,7 @@
 <h1 align="center"> 👋 Je suis Awen</h1>
 <h3 align="center">Développeur fullstack basé sur Nantes</h3>
 
-- 🌱 Actuellement j'apprends **Java, ReactJS et bientôt NextJS**
+- 🌱 Actuellement j'apprends **ReactJS, NextJS, Angular et bientôt Java**
 
 - 👨‍💻 Mes projets sont aussi dispo sur [awenbourdon.fr](awenbourdon.fr)
 
